@@ -35,7 +35,7 @@ pranesh = {
 
 | Degree | Institution | Year | CGPA |
 |--------|-------------|------|------|
-| B.E. Computer Science & Engineering | Rajalakshmi Engineering College, Chennai | 2022 – 2026 | 7.x / 10 |
+| B.E. Computer Science & Engineering | Rajalakshmi Engineering College, Chennai | 2023 – 2027 | 7.46 / 10 |
 
 ---
 
@@ -142,8 +142,8 @@ A pure ML-based approach to predicting personal finance trends and categorizing 
 
 ## 🏆 Achievements
 
-- 🥇 **Internal Hackathon** — Selected in Round 1 at Rajalakshmi Engineering College
-- 🎯 **NeoNathon Hackathon** — Participated in external inter-college hackathon (Participation Certificate)
+- 🥇 **Internal Hackathon** — Participated at Rajalakshmi Engineering College
+- 🎯 **Neurathon Hackathon** — Participated in external inter-college hackathon (Participation Certificate)
 - 💼 **Python Developer Intern** — Approtech R&D Solutions Pvt. Ltd.
 - 📜 **Certifications** — *(NPTEL / Coursera — updating soon)*
 
